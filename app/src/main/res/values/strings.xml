@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kartkowka_room</string>
+    <string-array name="listaPrzedmiot">
+        <item>Polski</item>
+        <item>Historia</item>
+        <item>Matematyka</item>
+        <item>Geografia</item>
+        <item>Fizyka</item>
+        <item>Biologia</item>
+        <item>WF</item>
+        <item>Programowanie</item>
+    </string-array>
+</resources>
